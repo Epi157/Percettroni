@@ -1,0 +1,6 @@
+Peso 1: 0.7
+Peso 2: 0.6
+Peso 3: 0.5
+Peso 4: 0.3
+Peso 5: 0.4
+Bias: 0.0
